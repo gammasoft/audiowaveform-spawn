@@ -1,0 +1,24 @@
+{
+  "name": "audiowaveform-spawn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://renatoargh@github.com/gammasoft/audiowaveform-spawn.git"
+  },
+  "author": "Renato Gama <renato@gammasoft.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gammasoft/audiowaveform-spawn/issues"
+  },
+  "homepage": "https://github.com/gammasoft/audiowaveform-spawn",
+  "dependencies": {
+    "async": "^1.5.0",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.13.3"
+  }
+}
